@@ -1,4 +1,8 @@
 h1 {
-    background-color: #000000;
     color: #FEFE00;
 }
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #000000;
